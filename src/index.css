@@ -1,0 +1,14 @@
+@import "tailwindcss";
+
+@theme {
+  --color-primary: #1e40af;
+  --color-secondary: #6b7280;
+  --color-cta: #f97316;
+  --color-cta-hover: #ea580c;
+}
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+  }
+}

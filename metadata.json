@@ -1,0 +1,7 @@
+{
+  "name": "Swarni Packers and Movers",
+  "description": "Professional and reliable packers and movers services in Ratnagiri. Safe, affordable, and hassle-free relocation.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
