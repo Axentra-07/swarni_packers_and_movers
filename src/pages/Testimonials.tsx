@@ -20,7 +20,7 @@ export default function Testimonials() {
       <section className="bg-primary py-20 text-white text-center">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <h1 className="text-4xl md:text-5xl font-bold mb-6">Our References</h1>
-          <p className="text-gray-400 max-w-2xl mx-auto text-lg">
+          <p className="text-blue-100 max-w-2xl mx-auto text-lg">
             Don't just take our word for it. See what our satisfied customers have to say about their moving experience.
           </p>
         </div>
